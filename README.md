@@ -12,7 +12,7 @@ The other option is to click the green "clone or download" button and then click
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
 
-### This Repo Solves the Followinf Questions
+### This Repo Solves the Following Questions
 1. List of all Players above age 40 and Total Number of Player
 2. List of all Player's Names of Brazil and export them into a csv file
 3. List of all players of Manchester City whose Potenital is above 90
